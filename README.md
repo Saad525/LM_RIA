@@ -1,7 +1,7 @@
 # LM_RIA
 LM RISC-V Inverse Assembler (Version 1.0)
 
-LM RISC-V Inverse Assembler (LM RIA) is a free software which converts RISC-V machine instructions from hexadecimal format to assembly format. 
+LM RISC-V Inverse Assembler (LM RIA) is an open source software which converts RISC-V machine instructions from hexadecimal format to assembly format. 
 LM RIA (Version 1.0) supports all the instructions of RV32I (except Fence instruction) and RV32/RV64 Zicsr Standard Extension CSR Instructions based on the Latest Official RISC-V Specifications Document.
 
 #########################################################################
