@@ -21,12 +21,14 @@ Please note that the message 'File successfully generated!' will appear the firs
 
 #########################################################################
 
-Format
+Format:
+
 Input File  - A text file with one instruction per new line in hexadecimal format with no special characters/spaces in between or at start/end.
 
 Output File - A text file with one instruction per new line in three formats (Hexadecimal, Binary, Assembly).
 
 #########################################################################
 
-Note
+Note:
+
 Please see the license file also.
